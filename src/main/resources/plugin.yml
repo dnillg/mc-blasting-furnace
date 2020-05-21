@@ -1,0 +1,5 @@
+name: furnace-plugin
+version: 1.0.0-SNAPSHOT
+author: Daniel Giczi
+main: com.dgiczi.mc.furnaceplugin.FurnacePlugin
+api-version: 1.14
