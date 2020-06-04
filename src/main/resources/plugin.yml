@@ -1,5 +1,5 @@
-name: furnace-plugin
-version: 1.0.0-SNAPSHOT
-author: Daniel Giczi
-main: com.dgiczi.mc.furnaceplugin.FurnacePlugin
+name: blasting-furnace
+version: 1.0.0
+author: dnillg
+main: com.dgiczi.mc.blastingfurnace.BlastingFurnacePlugin
 api-version: 1.14
